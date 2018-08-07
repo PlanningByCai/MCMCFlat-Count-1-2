@@ -25,6 +25,7 @@ Dr. Dunbo Cai
 dunbocai@gmail.com
 
 References:
+
 [1] Zhou, M.; He, F.; Song, X.; He, S.; Chen, G; Gu, M. Estimating the Volume of Solution Space for Satisfiability Modulo Linear Real Arithmetic. Theor. Comput. Syst. 2015, 56, 347-371.
 
 [2] Chakraborty, S., Meel, K.S. and Vardi, M.Y. Algorithmic improvements in approximate counting for probabilistic inference: from linear to logarithmic SAT calls. IJCAI, 2016, pp. 3569-3576.
